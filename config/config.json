@@ -1,15 +1,15 @@
 {
   "development": {
     "username": "postgres",
-    "password": "vineeth123",
-    "database": "wd-todo-dev",
+    "password": "stark",
+    "database": "ExpressJS",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
-    "password": "vineeth123",
-    "database": "wd-todo-test",
+    "password": "stark",
+    "database": "db_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
     },
